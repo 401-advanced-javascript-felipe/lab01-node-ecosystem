@@ -3,18 +3,5 @@
 ### Author: Felipe Delatorre
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-
-
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-
+* [submission PR](https://github.com/401-advanced-javascript-felipe/lab01-node-ecosystem/pull/1)
+* [travis](https://www.travis-ci.com/401-advanced-javascript-felipe/lab01-node-ecosystem)
